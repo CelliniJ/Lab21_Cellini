@@ -1,0 +1,46 @@
+﻿@{
+    @model Movie
+
+    <h1> Movie Registration</h1>
+
+        <form asp-controller="Home" asp-action="RegistrationResult" method="post">
+            <h2>ID</h2>
+            <input min="1" max="99" type="number" name="ID" required/><br />
+
+            <h2>Title</h2>
+            <input type="text" name="title" maxlength=50 required /><br />
+
+            <h2>Genre</h2>
+            <select id="genre" name="genre" size="6" multiple required>
+                <option value="Action">Action</option>
+                <option value="Comedy">Comedy</option>
+                <option value="Drama">Drama</option>
+                <option value="Horror">Horror</option>
+                <option value="Romance">Romance</option>
+                <option value="Science Fiction">Science Fiction</option>
+            </select><br />
+
+            <h2>Year</h2>
+            <input type="number" name="year" min="1920" max="2020" required /><br />
+
+            <h2>Actors:</h2>
+            <fieldset>
+                <label for="fname">First name:</label><br>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname">Last name:</label><br>
+                <input type="text" id="lname" name="lname"><br>
+            </fieldset><br />
+
+            <h2>Directors:</h2>
+            <input list="directors" name="directors">
+            <datalist id="directors">
+                <option value="Steven Spielburg"></option>
+                <option value="Quentin Tarantino"></option>
+                <option value="Spike Lee"></option>
+                <option value="Charles Kaufman"></option>
+                <option value="Michael Bay"></option>
+            </datalist>
+
+            <input type="submit" value="Register Movie" class="btn btn-success" />
+        </form><br />
+}
