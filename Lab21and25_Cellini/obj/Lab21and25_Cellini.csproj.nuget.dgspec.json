@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joseph Cellini\\Desktop\\Grand Circus Labs & Excersices\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj": {}
+    "C:\\Users\\Joseph Cellini\\OneDrive\\Desktop\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joseph Cellini\\Desktop\\Grand Circus Labs & Excersices\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj": {
+    "C:\\Users\\Joseph Cellini\\OneDrive\\Desktop\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joseph Cellini\\Desktop\\Grand Circus Labs & Excersices\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph Cellini\\OneDrive\\Desktop\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj",
         "projectName": "Lab21and25_Cellini",
-        "projectPath": "C:\\Users\\Joseph Cellini\\Desktop\\Grand Circus Labs & Excersices\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj",
+        "projectPath": "C:\\Users\\Joseph Cellini\\OneDrive\\Desktop\\Lab21and25_Cellini\\Lab21and25_Cellini\\Lab21and25_Cellini.csproj",
         "packagesPath": "C:\\Users\\Joseph Cellini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joseph Cellini\\Desktop\\Grand Circus Labs & Excersices\\Lab21and25_Cellini\\Lab21and25_Cellini\\obj\\",
+        "outputPath": "C:\\Users\\Joseph Cellini\\OneDrive\\Desktop\\Lab21and25_Cellini\\Lab21and25_Cellini\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joseph Cellini\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -37,3 +37,42 @@ C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab21and25_Cellin
 C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.genruntimeconfig.cache
 C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.csproj.CopyComplete
 C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Home\RegistrationResult.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.exe
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.deps.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.runtimeconfig.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.runtimeconfig.dev.json
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.dll
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.pdb
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.Views.dll
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\bin\Debug\netcoreapp3.1\Lab21and25_Cellini.Views.pdb
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.csprojAssemblyReference.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.AssemblyInfoInputs.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.AssemblyInfo.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.RazorAssemblyInfo.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.RazorAssemblyInfo.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.TagHelpers.input.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.TagHelpers.output.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.RazorCoreGenerate.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Home\RegistrationResult.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.RazorTargetAssemblyInfo.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.RazorTargetAssemblyInfo.cs
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.Views.pdb
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\staticwebassets\Lab21and25_Cellini.StaticWebAssets.Manifest.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\staticwebassets\Lab21and25_Cellini.StaticWebAssets.xml
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.dll
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.pdb
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.genruntimeconfig.cache
+C:\Users\Joseph Cellini\OneDrive\Desktop\Lab21and25_Cellini\Lab21and25_Cellini\obj\Debug\netcoreapp3.1\Lab21and25_Cellini.csproj.CopyComplete
